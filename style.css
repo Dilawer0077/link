@@ -1,0 +1,21 @@
+.container{
+    border: 8px solid black;
+    height: 300px;
+    padding: 30px;
+    display: flex;
+
+    
+    align-items: end;
+    align-content:space-evenly;
+    row-gap: 20px;
+    column-gap: 30px;
+    
+    
+}
+.box{
+    border:8px solid blue;
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    
+}
